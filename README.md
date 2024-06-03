@@ -19,7 +19,7 @@ ScheduleVisualizer is a tool designed to visualize Jenkins job schedules and oth
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/scheduleVisualizer.git
+   git clone https://github.com/kumarganeshmagam/scheduleVisualizer.git
    cd scheduleVisualizer
    ```
 
